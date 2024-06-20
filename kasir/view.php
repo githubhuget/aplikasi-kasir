@@ -132,7 +132,7 @@ if(isset($_GET['idp'])){
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; zaidan 2024</div>
+                            <div class="text-muted">Copyright &copy; teguh firmansyah</div>
                         </div>
                     </div>
                 </footer>
@@ -153,7 +153,7 @@ if(isset($_GET['idp'])){
 
       <!-- Modal Header -->
       <div class="modal-header">
-        <h4 class="modal-title">Tambah Data Pesanan</h4>
+        <h4 class="modal-title">Tambah Pesanan</h4>
         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
       </div>
       <form method="POST">

@@ -72,7 +72,7 @@ $h2 = mysqli_num_rows($pelanggan);
                                     <div class="card-body">Jumlah Barang :<?= $h2; ?></div>
                                     </div>
                                     <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">
-                                        Tambah Data Pelanggan
+                                        Tambah Pelanggan
                                     </button>
                                     <div class="container mt-3">
                                     </div>
@@ -115,7 +115,7 @@ $h2 = mysqli_num_rows($pelanggan);
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; zaidan 2024</div>
+                            <div class="text-muted">Copyright &copy; teguh firmansyah</div>
                         </div>
                     </div>
                 </footer>
@@ -136,7 +136,7 @@ $h2 = mysqli_num_rows($pelanggan);
 
       <!-- Modal Header -->
       <div class="modal-header">
-        <h4 class="modal-title">Tambah Data Pelanggan</h4>
+        <h4 class="modal-title">Tambah Pelanggan</h4>
         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
       </div>
       <form method="POST">
